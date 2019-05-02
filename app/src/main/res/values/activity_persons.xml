@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources></resources>
+<ListView>
+    ...
+    android:dividerHeight="5.0sp"
+    android:divider="@android:color/black"
+    android:padding="45sp">
+    </ListView>
